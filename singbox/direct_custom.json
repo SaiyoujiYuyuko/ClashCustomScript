@@ -4,7 +4,10 @@
         {
       "domain_keyword": [
         "masuit"
-      ]
+      ],
+      "domain_suffix": [
+        "163.com"
+       ]    
     }
   ]
 }
